@@ -9,6 +9,3 @@ Creating a new branch is quick and simple.
 change
 
 fix a bug
-
-
-sdf
